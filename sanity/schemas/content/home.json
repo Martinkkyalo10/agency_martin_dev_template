@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "Martin Devs | Enterprise-Grade DevOps for Startups",
+    "description": "From $0 to 1M users: We build, optimize, and secure your tech stack with measurable ROI. 24/7 support included.",
+    "keywords": [
+      "startup devops",
+      "AWS experts",
+      "cost optimization",
+      "scalable architecture",
+      "CTO-as-a-service"
+    ]
+  },
+
+  "hero": {
+    "headline": "Your Technical Co-Founder <span>Without the Equity Stake</span>",
+    "subheadline": "End-to-end DevOps and full-stack development that scales with your startup",
+    "cta": {
+      "primary": {
+        "text": "Book Free Tech Audit (30 min)",
+        "link": "https://calendly.com/martinkyalo/consultation",
+        "badge": "Limited slots"
+      },
+      "secondary": {
+        "text": "See Client Results →",
+        "link": "#results"
+      }
+    },
+    "trust_signals": [
+      "AWS Certified Engineer",
+      "5+ Years Zero Downtime",
+      "1-Hour Emergency Response"
+    ]
+  },
+
+  "results": {
+    "section_title": "We Measure Success in Your Growth",
+    "case_studies": [
+      {
+        "title": "Red Rat E-Commerce",
+        "challenge": "$8k/month AWS bills, 4.2s load times",
+        "solution": [
+          "Kubernetes cluster optimization",
+          "CDN implementation",
+          "Auto-scaling rules"
+        ],
+        "outcomes": [
+          { "metric": "0.8s", "label": "Avg. load time (-81%)" },
+          { "metric": "$2,100", "label": "Monthly cloud costs (-74%)" },
+          { "metric": "217%", "label": "Mobile conversions" }
+        ],
+        "technologies": ["AWS EKS", "Terraform", "Next.js"],
+        "link": "https://shop.redrat.cc"
+      },
+      {
+        "title": "Smart Brain AI Platform",
+        "challenge": "Unreliable deployments, security concerns",
+        "solution": [
+          "CI/CD pipeline",
+          "Containerized microservices",
+          "Redis session management"
+        ],
+        "outcomes": [
+          { "metric": "99.99%", "label": "Uptime" },
+          { "metric": "0", "label": "Security incidents" },
+          { "metric": "3.5x", "label": "Developer productivity" }
+        ],
+        "technologies": ["Docker", "Jenkins", "React"],
+        "link": "https://github.com/Martinkkvalo10/smart-brain-app"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Martin reduced our cloud costs by 60% while improving performance. Like having a CTO without the salary.",
+        "author": "CEO, Red Rat",
+        "role": "E-Commerce Startup",
+        "avatar": "/img/testimonials/redrat-ceo.jpg"
+      },
+      {
+        "quote": "24/7 support saved us during our Series A crunch. Worth every penny.",
+        "author": "CTO, FinTech Startup",
+        "role": "Payment Platform",
+        "avatar": "/img/testimonials/fintech-cto.jpg"
+      }
+    ]
+  },
+
+  "pricing": {
+    "tiers": [
+      {
+        "name": "Startup Essentials",
+        "price": "$2,499/mo",
+        "best_for": "Pre-seed to Seed",
+        "features": [
+          "10 hours DevOps support",
+          "Monthly cost optimization",
+          "Basic monitoring (CloudWatch)",
+          "Email support (24h response)"
+        ],
+        "cta": {
+          "text": "Start Scaling",
+          "link": "#contact"
+        }
+      },
+      {
+        "name": "Growth Accelerator",
+        "price": "$4,999/mo",
+        "popular": true,
+        "best_for": "Series A",
+        "features": [
+          "Unlimited DevOps support",
+          "Real-time monitoring",
+          "Security audits",
+          "1-hour emergency response",
+          "Monthly ROI reports"
+        ],
+        "cta": {
+          "text": "Get Priority Onboarding",
+          "link": "#contact"
+        }
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "best_for": "Series B+",
+        "features": [
+          "Dedicated engineer",
+          "SLA with penalties",
+          "Architecture reviews",
+          "Team training",
+          "White-glove migration"
+        ],
+        "cta": {
+          "text": "Request Proposal",
+          "link": "#contact"
+        }
+      }
+    ],
+    "guarantee": {
+      "text": "30-day money-back guarantee",
+      "icon": "badge-check"
+    }
+  },
+
+  "offer": {
+    "title": "Founder's Special: <span>3 Months at 1 Month Price</span>",
+    "details": "For startups under $1M ARR - limited to first 5 clients each quarter",
+    "includes": [
+      "Full infrastructure audit ($3k value)",
+      "CI/CD pipeline setup",
+      "24/7 monitoring",
+      "Weekly performance reports"
+    ],
+    "cta": {
+      "text": "Apply Now →",
+      "link": "https://calendly.com/martinkyalo/founder-special",
+      "urgency": "3 spots left this quarter"
+    },
+    "terms": "Must commit to 3-month minimum. Ends Dec 31, 2023."
+  },
+
+  "expertise": {
+    "devops_stack": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "Ansible",
+      "Docker"
+    ],
+    "dev_stack": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "certifications": [
+      {
+        "title": "AWS DevOps Pro (Udemy)",
+        "badge": "/img/certs/aws-devops-pro.png"
+      },
+      {
+        "title": "Kubernetes Certified (Udemy)",
+        "badge": "/img/certs/k8s-certified.png"
+      }
+    ]
+  },
+
+  "contact": {
+    "methods": [
+      {
+        "type": "Calendly",
+        "value": "https://calendly.com/martinkyalo",
+        "response_time": "Typically <1h"
+      },
+      {
+        "type": "Emergency",
+        "value": "+254-715-836-392",
+        "availability": "24/7"
+      }
+    ],
+    "social_proof": {
+      "github": "https://github.com/Martinkkyalo10",
+      "linkedin": "https://linkedin.com/in/martin-kyalo-654111239",
+      "client_logos": ["/img/logos/redrat.png", "/img/logos/fintech.png"]
+    }
+  }
+}
